@@ -9,6 +9,7 @@ def Pwn_Rev():
     --- Pwn & Rev ---
     > gdb(https://github.com/longld/peda)
     > radare2(https://github.com/radareorg/radare2)
+    > retdec(https://github.com/avast/retdec)
     > ghidra(https://github.com/NationalSecurityAgency/ghidra)
     > pwntools(https://github.com/Gallopsled/pwntools)
     > apktool(https://github.com/iBotPeaches/Apktool)
