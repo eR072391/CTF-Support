@@ -90,6 +90,7 @@ def Web():
     > ffuf(https://github.com/ffuf/ffuf)
     > commix(https://github.com/commixproject/commix)
     > wpscan(https://github.com/wpscanteam/wpscan)
+    > Webhook(https://webhook.site)
     > OWASP-ZAP(https://www.zaproxy.org/)
     > postman(https://www.postman.com/)
     > raccoon(https://github.com/evyatarmeged/Raccoon)
