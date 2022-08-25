@@ -17,6 +17,7 @@ def Pwn_Rev():
     > Immunity Debugger(https://www.immunityinc.com/products/debugger/)
     > checksec(https://github.com/slimm609/checksec.sh)
     > Binary Exploitation Notes(https://ir0nstone.gitbook.io/notes/)
+    > libc database search(https://libc.blukat.me/)
     > strace
     > ltrace
     > strings
