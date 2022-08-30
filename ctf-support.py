@@ -65,6 +65,7 @@ def Forensics():
     > strings
     > ImageMagick(https://github.com/ImageMagick/ImageMagick)
     > LostMyPass(https://www.lostmypass.com/)
+    > firmflaws(https://github.com/Ganapati/firmflaws)
     > CyberChef
     """)
 
