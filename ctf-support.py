@@ -114,6 +114,7 @@ def Misc():
     > somd5(https://somd5.com/)
     > crackstation(https://crackstation.net/)
     > hashkiller(https://hashkiller.co.uk/)
+    > audacity
     """)
 
 def category():
