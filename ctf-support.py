@@ -47,6 +47,7 @@ def Crypto():
     > Substitution Solver(https://www.guballa.de/substitution-solver)
     > Vigenere Solver(https://www.guballa.de/vigenere-solver)
     > CyberChef(https://gchq.github.io/CyberChef/)
+    > primefac(https://pypi.org/project/primefac/)
     """)
 
 def Forensics():
