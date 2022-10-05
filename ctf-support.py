@@ -117,6 +117,7 @@ def Misc():
     > crackstation(https://crackstation.net/)
     > hashkiller(https://hashkiller.co.uk/)
     > audacity
+    > AI Programmer(https://aiprogrammer.hashlab.jp/)
     """)
 
 def category():
