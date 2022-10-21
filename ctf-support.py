@@ -118,6 +118,7 @@ def Misc():
     > hashkiller(https://hashkiller.co.uk/)
     > audacity
     > AI Programmer(https://aiprogrammer.hashlab.jp/)
+    > CTF Checklist(https://fareedfauzi.gitbook.io/ctf-checklist-for-beginner/)
     """)
 
 def category():
