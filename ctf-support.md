@@ -91,6 +91,7 @@
 - [WEB checklist](https://fareedfauzi.gitbook.io/ctf-checklist-for-beginner/web)
 - [beautifier.io](https://beautifier.io/)
 - [Kiterunner](https://github.com/assetnote/kiterunner)
+- [Arjun](https://github.com/s0md3v/Arjun)
 
 # Misc
 
